@@ -1,0 +1,1 @@
+const Banner = require("../model/insert/banner.js")
